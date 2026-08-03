@@ -9,9 +9,9 @@ I'm currently expanding my expertise in Linux systems engineering, cloud infrast
 
 I'm passionate about Linux systems administration, automation, and infrastructure engineering. I enjoy building practical tools that simplify system management, strengthen security, and improve operational efficiency.
 
-My GitHub portfolio features a growing collection of open-source Bash utilities covering Linux monitoring, security, networking, backup and recovery, configuration management, and systems automation.
+My GitHub portfolio showcases an open-source Linux Administration Toolkit featuring Bash-based solutions for system monitoring, security, networking, backup and recovery, configuration management, and automation.
 
-I'm currently deepening my expertise in Linux, AWS Cloud, and DevOps while building real-world projects that demonstrate practical system administration skills.
+I'm continuously expanding my expertise in Linux, cloud engineering, and DevOps by building practical projects that solve real-world administration challenges.
 
 ## 🚀 Linux Administration Toolkit
 
