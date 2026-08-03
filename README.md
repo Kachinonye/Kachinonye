@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kachinonye Nmezi
 
-## 🐧 Linux Systems Administrator | Bash Automation Specialist | AWS Cloud Learner
+## 🐧 Linux Systems Administrator | Bash Automation Specialist | Cloud Engineering Enthusiast
 
 I build practical Linux administration tools that automate system management, strengthen infrastructure security, and simplify day-to-day operations through Bash scripting and automation.
 
