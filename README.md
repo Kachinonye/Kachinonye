@@ -16,44 +16,47 @@ I'm currently deepening my expertise in Linux, AWS Cloud, and DevOps while build
 
 ## 🚀 Linux Administration Toolkit
 
-Below are some of the flagship projects from my open-source Linux Administration Toolkit, built to solve real-world system administration, security, monitoring, and automation challenges.
+## 🚀 Linux Administration Toolkit
+
+Below are some of the flagship projects from my open-source Linux Administration Toolkit, built to solve real-world Linux administration, security, monitoring, and automation challenges.
 
 ### 🛡️ Security & Compliance
 
-- **SentinelX** — Adaptive Linux intrusion detection and automated response framework.
-- **AuditSentry** — Comprehensive Linux system auditing and security assessment tool.
-- **ConfigSentinel** — Configuration integrity monitoring and change detection.
-- **Fail2Ban-Lite** — Lightweight SSH intrusion prevention and automated IP blocking.
-- **PortSleuth** — Open port scanner and suspicious service notifier.
+- **[SentinelX](https://github.com/Kachinonye/sentinelx)** — Adaptive Linux intrusion detection and automated response framework.
+- **[AuditSentry](https://github.com/Kachinonye/AuditSentry)** — Comprehensive Linux system auditing and security assessment tool.
+- **[ConfigSentinel](https://github.com/Kachinonye/configsentinel)** — Configuration integrity monitoring and change detection.
+- **[Fail2Ban-Lite](https://github.com/Kachinonye/fail2ban-lite)** — Lightweight SSH intrusion prevention and automated IP blocking.
+- **[PortSleuth](https://github.com/Kachinonye/PortSleuth)** — Open port scanner and suspicious service notifier.
 
 ### 📊 Monitoring & Observability
 
-- **HealthPulse** — Linux system health monitoring and reporting.
-- **ResourceScope** — Real-time CPU, memory, and disk monitoring dashboard.
-- **ProcessWatch** — Process monitoring and status verification utility.
-- **ServiceSentinel** — Service monitoring with automatic recovery.
-- **LogGuardian** — Real-time Linux log monitoring and alerting.
-- **ErrorScope** — Error log analysis and HTML reporting tool.
+- **[HealthPulse](https://github.com/Kachinonye/HealthPulse)** — Linux system health monitoring and reporting.
+- **[ResourceScope](https://github.com/Kachinonye/ResourceScope)** — Real-time CPU, memory, and disk monitoring dashboard.
+- **[ProcessWatch](https://github.com/Kachinonye/ProcessWatch)** — Process monitoring and status verification utility.
+- **[ServiceSentinel](https://github.com/Kachinonye/servicesentinel)** — Service monitoring with automatic recovery.
+- **[LogGuardian](https://github.com/Kachinonye/LogGuardian)** — Real-time Linux log monitoring and alerting.
+- **[ErrorScope](https://github.com/Kachinonye/errorscope)** — Error log analysis and HTML reporting tool.
 
 ### 🌐 Networking
 
-- **NetMonGuard** — Network activity monitoring and suspicious traffic detection.
-- **NetMonLite** — Lightweight network connection monitor.
+- **[NetMonGuard](https://github.com/Kachinonye/netmonguard)** — Network activity monitoring and suspicious traffic detection.
+- **[NetMonLite](https://github.com/Kachinonye/netmonlite)** — Lightweight network connection monitor.
 
 ### 💾 Backup & Recovery
 
-- **BackupGuardian** — Automated Linux backup and retention management.
-- **SyncGuardian** — rsync-based backup and synchronization utility.
-- **SimpleBackup** — Lightweight timestamped backup utility.
+- **[BackupGuardian](https://github.com/Kachinonye/BackupGuardian)** — Automated Linux backup and retention management.
+- **[SyncGuardian](https://github.com/Kachinonye/SyncGuardian)** — rsync-based backup and synchronization utility.
+- **[SimpleBackup](https://github.com/Kachinonye/SimpleBackup)** — Lightweight timestamped backup utility.
 
 ### 📂 System Administration
 
-- **Guardrails** — Safe file and directory management with audit logging.
-- **FilePilot** — Interactive Linux file and directory management utility.
-- **FileFlow** — File and directory automation utility.
-- **DiskScope** — Disk usage analysis and storage reporting.
-- **PatchSentinel** — Linux patch and update monitoring.
-- **SessionSentinel** — User session and login activity monitoring.
+- **[Guardrails](https://github.com/Kachinonye/guardrails)** — Safe file and directory management with audit logging.
+- **[FilePilot](https://github.com/Kachinonye/FilePilot)** — Interactive Linux file and directory management utility.
+- **[FileFlow](https://github.com/Kachinonye/FileFlow)** — File and directory automation utility.
+- **[DiskScope](https://github.com/Kachinonye/DiskScope)** — Disk usage analysis and storage reporting.
+- **[PatchSentinel](https://github.com/Kachinonye/PatchSentinel)** — Linux patch monitoring and update intelligence.
+- **[SessionSentinel](https://github.com/Kachinonye/SessionSentinel)** — User session and login activity monitoring.
+
 
 - ## 🛠 Core Technologies
 
