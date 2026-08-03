@@ -88,6 +88,13 @@ Below are some of the flagship projects from my open-source Linux Administration
 - GitHub
 
 - ## 📚 Professional Development
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kachinonye&show_icons=true&theme=github_dark)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kachinonye&layout=compact&theme=github_dark)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Kachinonye&theme=github-dark)
+
+  
 
 ### Certifications & Courses Completed
 
