@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Kachinonye Nmezi GitHub Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Kachinonye Nmezi
 
 ## 🐧 Linux Systems Administrator | Bash Automation Specialist | Cloud Engineering Enthusiast
