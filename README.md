@@ -19,8 +19,6 @@ I'm continuously expanding my expertise in Linux, cloud engineering, and DevOps 
 
 ## 🚀 Linux Administration Toolkit
 
-## 🚀 Linux Administration Toolkit
-
 Below are some of the flagship projects from my open-source Linux Administration Toolkit, built to solve real-world Linux administration, security, monitoring, and automation challenges.
 
 ### 🛡️ Security & Compliance
