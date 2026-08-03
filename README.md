@@ -2,8 +2,7 @@
 
 ## 🐧 Linux Systems Administrator | Bash Automation Specialist | Cloud Engineering Enthusiast
 
-I build practical Linux administration tools that automate system management, strengthen infrastructure security, and simplify day-to-day operations through Bash scripting and automation.
-
+I build practical Linux administration tools that automate system management, strengthen infrastructure security, and streamline day-to-day operations using Bash scripting and automation.
 I'm currently expanding my expertise in Linux systems engineering, cloud infrastructure, and DevOps while building an open-source Linux Administration Toolkit.
 
 ## 👨‍💻 About Me
